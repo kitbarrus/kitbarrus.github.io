@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <style>
+            h1 {text-align: center; color: black;}
+            h2 {text-align: left; color: black;}
+            p {text-align: left;}
+            div {text-align: center;}
+            nav {text-align: right;}
+        </style>
+    </head>
+    
+    <header>
+            <nav>
+              <a href="" style = "border-width:2px; border-style:solid; border-color:#FFC0CB; padding: 0.5em;"> Home </a>
+              <a href="" style = "border-width:2px; border-style:solid; border-color:#FFC0CB; padding: 0.5em;"> About </a>
+              <a href="" style = "border-width:2px; border-style:solid; border-color:#FFC0CB; padding: 0.5em;"> Resume </a>
+              <a href="" style = "border-width:2px; border-style:solid; border-color:#FFC0CB; padding: 0.5em;"> Contact </a>
+            </nav>
+        <h1> Kitana Barrus </h1>
+    </header>
+
+    <body>
+        <h2> About </h2>
+          <p> 
+            
+    </body>
+
+
+
+
+    
+</html>
